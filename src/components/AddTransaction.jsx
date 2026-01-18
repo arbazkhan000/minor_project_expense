@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useBudget } from "../context/BudgetContext";
 import  Button  from "./ui/Button";
-import Input  from "../components/ui/input";
+import Input  from "../components/ui/Input";
 import { Plus, Minus } from "lucide-react";
 
 /* -------------------- Categories -------------------- */
